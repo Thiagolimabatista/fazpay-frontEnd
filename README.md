@@ -33,7 +33,7 @@ Essas escolhas tecnológicas e práticas de desenvolvimento demonstram um entend
 
 ## Built With
 
-- [Nodejs](https://vitejs.dev/) - Vitejs Library
+- [Vitejs](https://vitejs.dev/) - Vitejs Library
 - [TypeScript](https://www.typescriptlang.org) - Typed superset of JavaScript
 - [Redux](https://redux.js.org/) - Redux - States Controller
 - [GCP](https://console.cloud.google.com/welcome?project=ff-prod-platform) - Cloud
